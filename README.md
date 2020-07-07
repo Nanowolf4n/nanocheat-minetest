@@ -1,6 +1,6 @@
 Minetest
 ========
-The minetest client does not check remote privileges and damage ignore from falling from height.
+The minetest client does not check remote privileges and not sending local damage to server.
 Have fun!
 
 ![Build Status](https://github.com/minetest/minetest/workflows/build/badge.svg)
